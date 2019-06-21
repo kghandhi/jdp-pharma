@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6A6D85B8-058E-48F1-A958-6460FBA8B1F3</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-06-16T18:00:51-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:7053624E-14C4-4DE1-A54D-55D8F0B0F6DA</id>
+  <title>Welcome to JDP Pharma</title>
+  <title xmlns="urn:iweb:">Welcome to JDP Pharma</title>
+  <in-navbar xmlns="urn:iweb:">7053624E-14C4-4DE1-A54D-55D8F0B0F6DA</in-navbar>
+  <link rel="alternate" href="Welcome_to_JDP_Pharma.html"/>
+  <updated>2019-06-16T18:00:51.001-07:00</updated>
+  <content>Welcome to JDP Pharma</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AF52E336-C4BF-4E4F-A7FB-2622A39863F0</id>
+  <title>Principal</title>
+  <title xmlns="urn:iweb:">Principal</title>
+  <in-navbar xmlns="urn:iweb:">AF52E336-C4BF-4E4F-A7FB-2622A39863F0</in-navbar>
+  <link rel="alternate" href="Principal.html"/>
+  <updated>2019-06-16T18:00:51.002-07:00</updated>
+  <content>Principal</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:89244845-0691-4143-A086-D5AD5EE49087</id>
+  <title>Projects</title>
+  <title xmlns="urn:iweb:">Projects</title>
+  <in-navbar xmlns="urn:iweb:">89244845-0691-4143-A086-D5AD5EE49087</in-navbar>
+  <link rel="alternate" href="Projects.html"/>
+  <updated>2019-06-16T18:00:51.003-07:00</updated>
+  <content>Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AA0FA5B7-144D-4E3F-8C30-83DC61F7496A</id>
+  <title>Services</title>
+  <title xmlns="urn:iweb:">Services</title>
+  <in-navbar xmlns="urn:iweb:">AA0FA5B7-144D-4E3F-8C30-83DC61F7496A</in-navbar>
+  <link rel="alternate" href="Services.html"/>
+  <updated>2019-06-16T18:00:51.004-07:00</updated>
+  <content>Services</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D853380D-1BFD-4EFE-BE2C-5AB31380DB7C</id>
+  <title>Product Development</title>
+  <title xmlns="urn:iweb:">Product Development</title>
+  <in-navbar xmlns="urn:iweb:">D853380D-1BFD-4EFE-BE2C-5AB31380DB7C</in-navbar>
+  <link rel="alternate" href="Product_Development.html"/>
+  <updated>2019-06-16T18:00:51.005-07:00</updated>
+  <content>Product Development</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4723E279-3315-4181-8BAC-A8AB53882AC2</id>
+  <title>CMC Regulatory Strategy</title>
+  <title xmlns="urn:iweb:">CMC Regulatory Strategy</title>
+  <in-navbar xmlns="urn:iweb:">4723E279-3315-4181-8BAC-A8AB53882AC2</in-navbar>
+  <link rel="alternate" href="CMC_Regulatory_Strategy.html"/>
+  <updated>2019-06-16T18:00:51.006-07:00</updated>
+  <content>CMC Regulatory Strategy</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4FEF7FC7-5140-488E-80FB-663B7B232216</id>
+  <title>CMC Litigation Support</title>
+  <title xmlns="urn:iweb:">CMC Litigation Support</title>
+  <in-navbar xmlns="urn:iweb:">4FEF7FC7-5140-488E-80FB-663B7B232216</in-navbar>
+  <link rel="alternate" href="CMC_Litigation_Support.html"/>
+  <updated>2019-06-16T18:00:51.007-07:00</updated>
+  <content>CMC Litigation Support</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5C7A592B-1F17-49DB-A4D2-FFC7595185C1</id>
+  <title>CMC Program Coordination</title>
+  <title xmlns="urn:iweb:">CMC Program Coordination</title>
+  <in-navbar xmlns="urn:iweb:">5C7A592B-1F17-49DB-A4D2-FFC7595185C1</in-navbar>
+  <link rel="alternate" href="CMC_Program_Coordination.html"/>
+  <updated>2019-06-16T18:00:51.008-07:00</updated>
+  <content>CMC Program Coordination</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:16D46865-CE31-47F3-A875-0AA925761B7B</id>
+  <title>Drug Delivery and  Technology Assessment</title>
+  <title xmlns="urn:iweb:">Drug Delivery and  Technology Assessment</title>
+  <in-navbar xmlns="urn:iweb:">16D46865-CE31-47F3-A875-0AA925761B7B</in-navbar>
+  <link rel="alternate" href="Drug_Delivery_and_Technology_Assessment.html"/>
+  <updated>2019-06-16T18:00:51.009-07:00</updated>
+  <content>Drug Delivery and  Technology Assessment</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5D563C0C-06E6-46B1-AE91-668D7766DD58</id>
+  <title>Product and Process Development</title>
+  <title xmlns="urn:iweb:">Product and Process Development</title>
+  <in-navbar xmlns="urn:iweb:">5D563C0C-06E6-46B1-AE91-668D7766DD58</in-navbar>
+  <link rel="alternate" href="Product_and_Process_Development.html"/>
+  <updated>2019-06-16T18:00:51.010-07:00</updated>
+  <content>Product and Process Development</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F3E8C014-B0C1-4AF5-8F29-EE8E90B52966</id>
+  <title>Credentials</title>
+  <title xmlns="urn:iweb:">Credentials</title>
+  <in-navbar xmlns="urn:iweb:">F3E8C014-B0C1-4AF5-8F29-EE8E90B52966</in-navbar>
+  <link rel="alternate" href="Credentials.html"/>
+  <updated>2019-06-16T18:00:51.011-07:00</updated>
+  <content>Credentials</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0BF9663F-36A4-4D95-98F6-7E79B4880129</id>
+  <title>News &amp; Events</title>
+  <title xmlns="urn:iweb:">News &amp; Events</title>
+  <in-navbar xmlns="urn:iweb:">0BF9663F-36A4-4D95-98F6-7E79B4880129</in-navbar>
+  <link rel="alternate" href="News_%26_Events.html"/>
+  <updated>2019-06-16T18:00:51.012-07:00</updated>
+  <content>News &amp; Events</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DA08C175-B380-4080-BA2B-234333580139</id>
+  <title>Contact Us</title>
+  <title xmlns="urn:iweb:">Contact Us</title>
+  <in-navbar xmlns="urn:iweb:">DA08C175-B380-4080-BA2B-234333580139</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2019-06-16T18:00:51.013-07:00</updated>
+  <content>Contact Us</content>
+ </entry>
+</feed>
